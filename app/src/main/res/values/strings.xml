@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Wether App</string>
+    <string name="logo">Weather in your city</string>
+    <string name="hint_user_field">Enter city</string>
+    <string name="main_btn">Check the weather</string>
+    <string name="no_user_input">Enter text</string>
+    <string name="wait">Wait...</string>
+    <string name="connection_error">Connection problems :(</string>
+</resources>
